@@ -1,10 +1,11 @@
 ---
 title: Wei Yu
 role: Ph.D. in Computer Science
-avatar_filename: head.jpg
+avatar_filename: qq截图20201012212713.jpg
 bio: My research focuses on spatiotemporal modeling, video prediction and
   climate forecasting.
-interests: []
+interests:
+  - Machine_learning;computer_vision
 social:
   - icon: envelope
     icon_pack: fas
