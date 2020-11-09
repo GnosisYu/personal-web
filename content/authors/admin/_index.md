@@ -5,7 +5,7 @@ avatar_filename: qq截图20201012212713.jpg
 bio: My research focuses on spatiotemporal modeling, video prediction and
   climate forecasting.
 interests:
-  - Machine_learning;computer_vision
+  - Machine learning; Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
