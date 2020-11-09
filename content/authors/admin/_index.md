@@ -1,11 +1,10 @@
 ---
 title: Wei Yu
-role: Ph.D. Student in Computer Science
+role: Ph.D. in Computer Science
 avatar_filename: head.jpg
-bio: My research interests include spatiotemporal modeling, video prediction and
+bio: My research focuses on spatiotemporal modeling, video prediction and
   climate forecasting.
-interests:
-  - Machine learning; Computer Vision
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,4 +39,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am now a fourth-year PhD student in computer science at University of Toronto under supervision of Prof. Steve Easterbrook and Animesh Garg. My research focuses on spatio-temporal modeling, especially video prediction.
+I am now a fourth-year PhD student in computer science at University of Toronto under supervision of Prof. Steve Easterbrook and Animesh Garg. My research mainly focuses on spatio-temporal modeling, especially video prediction, and climate forecasting using deep learning techniques.
